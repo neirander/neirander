@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=neirander&label=Profile%20views&color=0e75b6&style=flat" alt="neirander" />
-  <img src="https://img.shields.io/github/followers/{neirander}.svg?style=social&label=Follow&maxAge=2592000" />
+  <img src="https://img.shields.io/github/followers/neirander.svg?style=social&label=Follow&maxAge=2592000" />
 </p>
 <p align="center">
   <a href="mailto:eng.neirander@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
