@@ -31,4 +31,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neirander&" alt="neirander" /></p>
 
-<p align="center">![Snake animation](https://github.com/neirander/neirander/blob/output/github-contribution-grid-snake.svg)</p>
+<p align="center"><imh src="![Snake animation](https://github.com/neirander/neirander/blob/output/github-contribution-grid-snake.svg)" /></p>
