@@ -14,7 +14,7 @@
   <a href="[![trophy]https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neirander" alt="neirander" /></a>
 </p>
 
-### Blogs posts
+<p align="center">### Blogs posts</p>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
