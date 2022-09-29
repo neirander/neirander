@@ -35,4 +35,4 @@
 
 <p align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=neirander&theme=vue-dark&hide_border=true&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)</p>
 
-![Snake animation](https://github.com/neirander/neirander/blob/output/github-contribution-grid-snake.svg)"
+<p align="center">![Snake animation](https://github.com/neirander/neirander/blob/output/github-contribution-grid-snake.svg)"</p>
