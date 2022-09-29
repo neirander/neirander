@@ -33,4 +33,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neirander&show_icons=true&locale=en" alt="neirander" /></p>
 
-<p align="center"><img src="![Snake animation](https://github.com/neirander/neirander/blob/output/github-contribution-grid-snake.svg)" /></p>
+![Snake animation](https://github.com/neirander/neirander/blob/output/github-contribution-grid-snake.svg)
