@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, me chamo Nei Rander</h1>
-<h3 align="center">Um desenvolvedor front-end apaixonado e em fase de aprendizado</h3>
+<h1 align="center">Olá 👋, prazer!</h1>
+<h3 align="center">Sou um desenvolvedor front-end apaixonado e em fase de aprendizagem.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=neirander&label=Profile%20views&color=0e75b6&style=flat" alt="neirander" />
